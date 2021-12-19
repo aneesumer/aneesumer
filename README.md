@@ -22,7 +22,7 @@
 - 💬 Ask me about about C C++ Python Linux Shell Script and Github.
 - ⚡ Fun fact: I am bad at Jokes!
 - NEWCOMER But PASSIONATE :)
-- ![](https://komarev.com/ghpvc/?username=your-github-rajeshkumar-ctrl&color=green)
+- ![](https://komarev.com/ghpvc/?username=your-github-aneesumer&color=green)
 
 
 
