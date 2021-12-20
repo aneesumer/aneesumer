@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </div>
 
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=aneesumer&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<!--<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=aneesumer&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">-->
 
 <p>&nbsp;</p>
 
