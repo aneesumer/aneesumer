@@ -1,5 +1,4 @@
-[![photo-1461749280684-dccba630e2f6.jpg](https://i.postimg.cc/L6QdXXyD/photo-1461749280684-dccba630e2f6.jpg)](https://postimg.cc/GHDggcnT)
-
+[![photo-1461749280684-dccba630e2f6.jpg](https://i.postimg.cc/NGbSJFwt/photo-1461749280684-dccba630e2f6.jpg)](https://postimg.cc/NL9dLgMC)
 <p>
   <h1 align="center"><b>SIZA! Ich bin Anees Umer 👋</b></h1>
 </p>
