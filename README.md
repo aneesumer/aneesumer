@@ -1,4 +1,4 @@
-<img src= "https://github.com/aneesumer/images/blob/main/photo-1461749280684-dccba630e2f6.jpg" width="1000px" heigth="500px">
+<img src= "https://github.com/aneesumer/images/blob/main/photo-1461749280684-dccba630e2f6.jpg" width="1000px" heigth="300px">
 
   <h1 align="center"><b>SIZA! Ich bin Anees Umer 👋</b></h1>
 </p>
