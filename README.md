@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 
-I'm Anees Umer, a Software Engineer and M.Sc. Applied Computer Science student based in Germany.
+I'm Anees Umer, a Software Engineer and M.Sc. Applied Computer Science student based in Germany.<br>
+
 🔭 Currently working at Sartorius as a Working Student SQL Developer<br>
 🎓 Pursuing an M.Sc. in Applied Computer Science at the University of Göttingen<br>
 🌱 Learning more about Cloud-Native Development, Distributed Systems, and Software Architecture<br>
