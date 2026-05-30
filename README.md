@@ -11,9 +11,8 @@ I'm Anees Umer, a Software Engineer and M.Sc. Applied Computer Science student b
 🧪 Strong advocate of Test-Driven Development, Unit Testing, and Clean Code practices<br>
 🤝 Open to collaborating on backend, microservices, and cloud-native projects<br>
 💬 Ask me about Java, Spring Boot, Microservices, PostgreSQL, Docker, Kubernetes, Linux, and Git<br>
-⚡ Fun fact: My code has fewer bugs than my jokes
-
-- ![](https://komarev.com/ghpvc/?username=your-github-aneesumer&color=green)
+⚡ Fun fact: My code has fewer bugs than my jokes<br>
+![](https://komarev.com/ghpvc/?username=your-github-aneesumer&color=green)
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/aneesumer?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FKj9AZboSv2HQmy9Vpvflw%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;  
