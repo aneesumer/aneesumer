@@ -1,12 +1,18 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-- 🔭 I’m currently working on learning new skills.
-- 🌱 I’m currently studying Computer Science in Eötvös Loránd Tudományegyetem, Class of 2023.
-- 👯 I’m looking to collaborate on innovative Ideas & Project.
-- 🤔 I’m looking for help with Clean and C langugage.
-- 💬 Ask me about about C C++ Python Linux Shell Script and Github.
-- ⚡ Fun fact: I am bad at Jokes!
-- NEWCOMER But PASSIONATE :)
+### Hi there 👋
+
+I'm Anees Umer, a Software Engineer and M.Sc. Applied Computer Science student based in Germany.
+
+- 🔭 Currently working at Sartorius as a Working Student SQL Developer
+- 🎓 Pursuing an M.Sc. in Applied Computer Science at the University of Göttingen
+- 🌱 Learning more about Cloud-Native Development, Distributed Systems, and Software Architecture
+- 💻 Experienced with Java, Spring Boot, PostgreSQL, Docker, Kubernetes, Jenkins, and CI/CD
+- 🧪 Strong advocate of Test-Driven Development, Unit Testing, and Clean Code practices
+- 🤝 Open to collaborating on backend, microservices, and cloud-native projects
+- 💬 Ask me about Java, Spring Boot, Microservices, PostgreSQL, Docker, Kubernetes, Linux, and Git
+- ⚡ Fun fact: My code has fewer bugs than my jokes
+
 - ![](https://komarev.com/ghpvc/?username=your-github-aneesumer&color=green)
 <p align="center">
 <br>
