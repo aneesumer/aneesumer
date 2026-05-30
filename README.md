@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
-### Hi there 👋
+## Hi there 👋
 
 I'm Anees Umer, a Software Engineer and M.Sc. Applied Computer Science student based in Germany.
 
