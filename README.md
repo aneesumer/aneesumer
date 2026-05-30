@@ -1,8 +1,3 @@
-<img src= "https://github.com/aneesumer/aneesumer/blob/main/photo-1461749280684-dccba630e2f6.jpg" width="1000%" heigth="35%">
-
-  <h1 align="center"><b>SIZA! Ich bin Anees Umer 👋</b></h1>
-</p>
-
 <p align="center">
 <br>
 <a href="https://www.facebook.com/aneesumar72/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
